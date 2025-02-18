@@ -1,0 +1,37 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.namtanumber {
+  font-size: 20px;
+  width: 400px;
+  height: 50px;
+  padding-left: 15px;
+  border: 2px solid #000;
+  border-radius: 14px;
+  color: #000;
+  margin-right: 20px;
+}
+.btn{
+  font-size: 20px;
+  padding: 13px;
+  color: rgb(58, 72, 145);
+  border-radius: 14px;
+  font-weight: 600;
+  background: rgb(193, 179, 159);
+  border: none;
+  cursor: pointer;
+}
+.btn:hover{
+  background: #1f0b79;
+  color: #fff;
+  transition: all linear .3s;
+}
+.error{
+  font-size: 20px;
+  color: red;
+}
+ol,ul{
+  list-style-type: none;
+}
