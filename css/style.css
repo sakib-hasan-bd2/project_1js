@@ -35,3 +35,11 @@
 ol,ul{
   list-style-type: none;
 }
+.result {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+}
+.result li{
+  font-size: 45px;
+}
